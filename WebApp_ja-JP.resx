@@ -122,4 +122,8 @@
   </data>
   <data name="Greeting_Desktop" xml:space="preserve">
     <value>こんにちは、デスクトップユーザー、</value>
-  </data></root>
+  </data>
+  <data name="First_Expiration_Date" xml:space="preserve">
+    <value>最初の有効期限：</value>
+  </data>  
+  </root>
