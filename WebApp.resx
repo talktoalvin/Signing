@@ -128,5 +128,8 @@
   </data>
   <data name="Food_Is_Here" xml:space="preserve">
     <value>Food is here</value>
-  </data>   
+  </data> 
+  <data name="Food_Is_Really_Here" xml:space="preserve">
+    <value>Food is really here</value>
+  </data>     
   </root>
