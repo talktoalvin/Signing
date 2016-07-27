@@ -125,5 +125,8 @@
   </data>
   <data name="First_Expiration_Date" xml:space="preserve">
     <value>First expiration date:</value>
-  </data>  
+  </data>
+  <data name="Food_Is_Here" xml:space="preserve">
+    <value>Food is here</value>
+  </data>   
   </root>
